@@ -11,6 +11,6 @@ public class Adder {
         System.out.println("Type another number: ");
         int number2 = Integer.parseInt(reader.nextLine());
         int number3 = number1 + number2;
-        System.out.println("Sum of the number: " + number3);
+        System.out.println("Sum of the numbers: " + number3);
     }
 }
