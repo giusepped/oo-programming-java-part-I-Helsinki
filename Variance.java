@@ -20,7 +20,7 @@ public class Variance {
 
         double num = 0;
         for ( int l : list){
-            num += (l - average(list))*(l - average(list));
+            num += Math.pow((l - average(list)), 2.0);
         }
         double denom = (double)(list.size()) - 1.0;
         double var = num/denom;
