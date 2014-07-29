@@ -1,3 +1,5 @@
+//using a nested loop to print stars starting from an array
+
 
 public class Main {
 
