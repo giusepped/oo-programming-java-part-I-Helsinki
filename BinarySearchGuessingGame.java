@@ -22,7 +22,7 @@ public class GuessingGame {
                 upperLimit = average - 1;
             }
         }
-        System.out.println("The number you're thinking of is " + average);
+        System.out.println("The number you're thinking of is " + lowerLimit);
 
     }
 
