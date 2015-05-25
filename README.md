@@ -1,3 +1,3 @@
 oo-programming-java-part-I-Helsinki
 ===================================
-Exercises from http://mooc.cs.helsinki.fi/programming-part1/
+These are the solutions to the exercises from http://mooc.fi/courses/2013/programming-part-1/
